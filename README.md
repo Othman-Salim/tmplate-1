@@ -1,2 +1,2 @@
 # tmplate-1
-##for html and css
+for html and css
